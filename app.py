@@ -18,6 +18,8 @@ RIVERS = [
         "full_name": "Green River near Warren Bridge, WY",
         "lat": 42.93,
         "lon": -109.97,
+        "image_file": "green-river.jpg",
+        "photo_gradient": "linear-gradient(160deg, #1a3a2e 0%, #2a6b52 50%, #1a4f6e 100%)",
     },
     {
         "id": "09205000",
@@ -25,6 +27,8 @@ RIVERS = [
         "full_name": "New Fork River near Big Piney, WY",
         "lat": 42.62,
         "lon": -110.11,
+        "image_file": "new-fork.jpg",
+        "photo_gradient": "linear-gradient(160deg, #2a2e1a 0%, #4a5830 50%, #3a4a3a 100%)",
     },
     {
         "id": "09211200",
@@ -32,6 +36,8 @@ RIVERS = [
         "full_name": "Green River below Fontenelle Dam, WY",
         "lat": 41.97,
         "lon": -109.57,
+        "image_file": "seedskadee.jpg",
+        "photo_gradient": "linear-gradient(160deg, #1a3a4a 0%, #2a6868 50%, #1e4a3a 100%)",
     },
 ]
 
